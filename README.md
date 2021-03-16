@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity topics and Web Development**
 
-- 📝 I regularly write articles on [Medium and Researchgate](Medium and Researchgate)
-
 - 💬 Ask me about **Python, React, NodeJS, Ethical Hacking and Pentest**
 
 - 📫 How to reach me **vitorsv1@al.insper.edu.br**
