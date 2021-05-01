@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity topics and Web Development**
 
-- 💬 Ask me about **Python, React, NodeJS, Ethical Hacking and Pentest**
+- 💬 Ask me about **Python, React, NodeJS, Cybersecurity, Ethical Hacking and Pentest**
 
 - 📫 How to reach me **vitorsv1@al.insper.edu.br**
 
