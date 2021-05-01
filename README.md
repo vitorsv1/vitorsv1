@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/12--5xvn9APBHeBuURI45xfC6JknRyXZB?usp=sharing](https://drive.google.com/drive/folders/12--5xvn9APBHeBuURI45xfC6JknRyXZB?usp=sharing)
 
-- ⚡ Fun fact **I love to competing in eSports**
+- ⚡ Fun fact **I love to competing in eSports and play games 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
