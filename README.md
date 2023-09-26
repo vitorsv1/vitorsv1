@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Satyro</h1>
 <h3 align="center">A passionate Cybersecurity and web development student from São Paulo, BR</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorsv1&count_private=true&show_icons=true&theme=radical"/></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorsv1&count_private=true&show_icons=true&theme=radical"/></p>-->
 
 - 🌱 I’m currently learning **Cybersecurity topics and Web Development**
 
