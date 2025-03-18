@@ -3,7 +3,7 @@
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorsv1&count_private=true&show_icons=true&theme=radical"/></p>-->
 
-- 🌱 I’m currently learning **Cybersecurity **
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 💬 Ask me about **Python, Cloud, Cybersecurity, Ethical Hacking and Pentest**
 
