@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **vitorsv1@al.insper.edu.br**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/12--5xvn9APBHeBuURI45xfC6JknRyXZB?usp=sharing](https://drive.google.com/drive/folders/12--5xvn9APBHeBuURI45xfC6JknRyXZB?usp=sharing)
-
-- ⚡ Fun fact **I love to competing in eSports and play games 🎮**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/papyrosuiton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="papyrosuiton" height="30" width="40" /></a>
